@@ -136,7 +136,7 @@ export default function LoginPage() {
           <p className="text-muted-foreground text-sm leading-relaxed">
             AI가 도와주는 스마트한 할 일 관리
             <br />
-            생산성을 높이고 시간을 절약하세요
+            이제 AI와 함께 관리하세요
           </p>
         </div>
 
